@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HDcpDetect"]
 	path = HDcpDetect
 	url = https://github.com/cran/HDcpDetect
-	shallow = true
-	registered = true
